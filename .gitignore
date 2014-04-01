@@ -4,3 +4,5 @@ WEB-INF/
 .sass-cache/
 .settings
 .svn
+.idea/
+*.iml

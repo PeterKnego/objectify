@@ -10,17 +10,11 @@ import java.util.List;
 import java.util.Map;
 import java.util.Set;
 
-import com.google.appengine.api.datastore.Cursor;
-import com.google.appengine.api.datastore.Entity;
-import com.google.appengine.api.datastore.FetchOptions;
-import com.google.appengine.api.datastore.KeyFactory;
-import com.google.appengine.api.datastore.PreparedQuery;
+import com.google.appengine.api.datastore.*;
 import com.google.appengine.api.datastore.Query.FilterOperator;
 import com.google.appengine.api.datastore.Query.FilterPredicate;
 import com.google.appengine.api.datastore.Query.SortDirection;
 import com.google.appengine.api.datastore.Query.SortPredicate;
-import com.google.appengine.api.datastore.QueryResultIterable;
-import com.google.appengine.api.datastore.QueryResultIterator;
 import com.googlecode.objectify.Key;
 import com.googlecode.objectify.Objectify;
 import com.googlecode.objectify.ObjectifyFactory;
@@ -630,6 +624,11 @@ public class QueryImpl<T> implements Query<T>, Cloneable
 		{
 			return new Key<T>(from.getKey());
 		}
+
+			@Override
+			public List<Index> getIndexList() {
+					return null;
+			}
 	}
 
 	/**
@@ -667,5 +666,10 @@ public class QueryImpl<T> implements Query<T>, Cloneable
 			EntityMetadata<T> meta = factory.getMetadata(from.getKey());
 			return meta.toObject(from, ofy);
 		}
+
+			@Override
+			public List<Index> getIndexList() {
+					return null;
+			}
 	}
 }
