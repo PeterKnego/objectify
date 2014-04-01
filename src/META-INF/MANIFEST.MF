@@ -1,0 +1,35 @@
+Manifest-Version: 1.0
+Class-Path: appengine-tools-api.jar appengine-remote-api.jar libservic
+ e.jar jsr107cache-1.1.jar appengine-api-labs-1.9.0.jar appengine-api-
+ 1.0-sdk-1.9.0.jar appengine-jsr107cache-1.9.0.jar appengine-testing.j
+ ar el-api.jar jsp-api.jar servlet-api.jar appengine-local-runtime-sha
+ red.jar google_sql.jar appengine-api.jar appengine-api-labs.jar appen
+ gine-api-stubs.jar appengine-local-runtime.jar appengine-dev-jdk-over
+ rides.jar appengine-tools-api.jar appengine-remote-api.jar jsr107cach
+ e-1.1.jar appengine-jsr107cache-1.9.0.jar jdo2-api-2.3-eb.jar datanuc
+ leus-jpa-1.1.5.jar datanucleus-core-1.1.5.jar geronimo-jpa_3.0_spec-1
+ .1.1.jar geronimo-jta_1.1_spec-1.1.1.jar datanucleus-appengine-1.0.10
+ .final.jar asm-4.0.jar jta-1.1.jar jdo-api-3.0.1.jar datanucleus-core
+ -3.1.3.jar datanucleus-api-jdo-3.1.3.jar datanucleus-api-jpa-3.1.3.ja
+ r geronimo-jpa_2.0_spec-1.0.jar datanucleus-appengine-2.1.2.jar appen
+ gine-endpoints.jar appengine-endpoints-deps.jar appengine-api-labs.ja
+ r appengine-local-endpoints.jar asm-4.1.jar jdo2-api-2.3-eb.jar datan
+ ucleus-jpa-1.1.5.jar datanucleus-core-1.1.5.jar datanucleus-enhancer-
+ 1.1.4.jar geronimo-jpa_3.0_spec-1.1.1.jar geronimo-jta_1.1_spec-1.1.1
+ .jar asm-4.0.jar jta-1.1.jar jdo-api-3.0.1.jar datanucleus-core-3.1.3
+ .jar datanucleus-api-jdo-3.1.3.jar datanucleus-api-jpa-3.1.3.jar gero
+ nimo-jpa_2.0_spec-1.0.jar datanucleus-enhancer-3.1.1.jar gwt-dev.jar 
+ gwt-user.jar gwt-servlet.jar gwt-soyc-vis.jar gwt-elemental.jar gwt-c
+ odeserver.jar gwt-api-checker.jar gwt-servlet-deps.jar requestfactory
+ -apt.jar requestfactory-client.jar requestfactory-server.jar requestf
+ actory-apt-src.jar validation-api-1.0.0.GA.jar requestfactory-client+
+ src.jar requestfactory-client-src.jar requestfactory-server+src.jar r
+ equestfactory-server-src.jar validation-api-1.0.0.GA-sources.jar gwt-
+ dev.jar gwt-user.jar gwt-servlet.jar gwt-soyc-vis.jar gwt-elemental.j
+ ar gwt-codeserver.jar gwt-api-checker.jar gwt-servlet-deps.jar reques
+ tfactory-apt.jar requestfactory-client.jar requestfactory-server.jar 
+ requestfactory-apt-src.jar validation-api-1.0.0.GA.jar requestfactory
+ -client+src.jar requestfactory-client-src.jar requestfactory-server+s
+ rc.jar requestfactory-server-src.jar validation-api-1.0.0.GA-sources.
+ jar joda-time-2.0.jar joda-money-0.6.jar testng-5.11-jdk15.jar
+

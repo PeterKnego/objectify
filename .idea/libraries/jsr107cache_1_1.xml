@@ -1,0 +1,68 @@
+<component name="libraryTable">
+  <library name="jsr107cache-1.1">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../downloads/appengine-java-sdk-1.9.0/lib" />
+      <root url="file://$PROJECT_DIR$/../../downloads/appengine-java-sdk-1.9.0/lib/user" />
+      <root url="file://$PROJECT_DIR$/../../downloads/appengine-java-sdk-1.9.0/lib/testing" />
+      <root url="file://$PROJECT_DIR$/../../downloads/appengine-java-sdk-1.9.0/lib/shared" />
+      <root url="file://$PROJECT_DIR$/../../downloads/appengine-java-sdk-1.9.0/lib/impl" />
+      <root url="file://$PROJECT_DIR$/../../downloads/appengine-java-sdk-1.9.0/lib/override" />
+      <root url="file://$PROJECT_DIR$/../../downloads/appengine-java-sdk-1.9.0/lib" />
+      <root url="file://$PROJECT_DIR$/../../downloads/appengine-java-sdk-1.9.0/lib/opt/user/jsr107/v1" />
+      <root url="file://$PROJECT_DIR$/../../downloads/appengine-java-sdk-1.9.0/lib/opt/user/datanucleus/v1" />
+      <root url="file://$PROJECT_DIR$/../../downloads/appengine-java-sdk-1.9.0/lib/opt/user/datanucleus/v2" />
+      <root url="file://$PROJECT_DIR$/../../downloads/appengine-java-sdk-1.9.0/lib/opt/user/appengine-endpoints/v1" />
+      <root url="file://$PROJECT_DIR$/../../downloads/appengine-java-sdk-1.9.0/lib/opt/user/appengine-api-labs/v1" />
+      <root url="file://$PROJECT_DIR$/../../downloads/appengine-java-sdk-1.9.0/lib/opt/tools/appengine-local-endpoints/v1" />
+      <root url="file://$PROJECT_DIR$/../../downloads/appengine-java-sdk-1.9.0/lib/opt/tools/datanucleus/v1" />
+      <root url="file://$PROJECT_DIR$/../../downloads/appengine-java-sdk-1.9.0/lib/opt/tools/datanucleus/v2" />
+      <root url="file://$PROJECT_DIR$/../../downloads/gwt-2.6.0" />
+      <root url="file://$PROJECT_DIR$/../../downloads/gwt-2.6.0" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$PROJECT_DIR$/javadoc" />
+      <root url="file://$PROJECT_DIR$/../../downloads/gwt-2.6.0/doc/javadoc" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../downloads/appengine-java-sdk-1.9.0/lib/user" />
+      <root url="file://$PROJECT_DIR$/../../downloads/appengine-java-sdk-1.9.0/lib/testing" />
+      <root url="file://$PROJECT_DIR$/../../downloads/appengine-java-sdk-1.9.0/lib/impl" />
+      <root url="file://$PROJECT_DIR$/../../downloads/appengine-java-sdk-1.9.0/lib" />
+      <root url="file://$PROJECT_DIR$/../../downloads/appengine-java-sdk-1.9.0/lib/opt/user/appengine-api-labs/v1" />
+      <root url="file://$PROJECT_DIR$/../../downloads/gwt-2.6.0/samples/JSON/src" />
+      <root url="file://$PROJECT_DIR$/../../downloads/gwt-2.6.0/samples/Mail/src" />
+      <root url="file://$PROJECT_DIR$/../../downloads/gwt-2.6.0/samples/Hello/src" />
+      <root url="file://$PROJECT_DIR$/../../downloads/gwt-2.6.0/samples/Showcase/src" />
+      <root url="file://$PROJECT_DIR$/../../downloads/gwt-2.6.0/samples/DynaTable/src" />
+      <root url="file://$PROJECT_DIR$/../../downloads/gwt-2.6.0/samples/LogExample/src" />
+      <root url="file://$PROJECT_DIR$/../../downloads/gwt-2.6.0/samples/Validation/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../downloads/gwt-2.6.0/samples/DynaTableRf/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../downloads/gwt-2.6.0/samples/MobileWebApp/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../../downloads/gwt-2.6.0/samples/MobileWebApp/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../../downloads/gwt-2.6.0" />
+      <root url="file://$GAE_SDK$" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../../downloads/appengine-java-sdk-1.9.0/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../downloads/appengine-java-sdk-1.9.0/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../downloads/appengine-java-sdk-1.9.0/lib/impl" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../downloads/appengine-java-sdk-1.9.0/lib/opt/tools/appengine-local-endpoints/v1" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../downloads/appengine-java-sdk-1.9.0/lib/opt/tools/datanucleus/v1" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../downloads/appengine-java-sdk-1.9.0/lib/opt/tools/datanucleus/v2" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../downloads/appengine-java-sdk-1.9.0/lib/opt/user/appengine-api-labs/v1" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../downloads/appengine-java-sdk-1.9.0/lib/opt/user/appengine-endpoints/v1" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../downloads/appengine-java-sdk-1.9.0/lib/opt/user/datanucleus/v1" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../downloads/appengine-java-sdk-1.9.0/lib/opt/user/datanucleus/v2" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../downloads/appengine-java-sdk-1.9.0/lib/opt/user/jsr107/v1" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../downloads/appengine-java-sdk-1.9.0/lib/override" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../downloads/appengine-java-sdk-1.9.0/lib/shared" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../downloads/appengine-java-sdk-1.9.0/lib/testing" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../downloads/appengine-java-sdk-1.9.0/lib/user" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../downloads/gwt-2.6.0" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../downloads/appengine-java-sdk-1.9.0/lib" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../downloads/appengine-java-sdk-1.9.0/lib/impl" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../downloads/appengine-java-sdk-1.9.0/lib/opt/user/appengine-api-labs/v1" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../downloads/appengine-java-sdk-1.9.0/lib/testing" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../downloads/appengine-java-sdk-1.9.0/lib/user" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/../../downloads/gwt-2.6.0" recursive="false" type="SOURCES" />
+  </library>
+</component>
