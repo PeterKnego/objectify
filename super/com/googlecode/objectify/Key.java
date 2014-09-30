@@ -1,4 +1,4 @@
-package com.googlecode.objectify;
+package com.googlecode.objectify_v3;
 
 import java.io.Serializable;
 
